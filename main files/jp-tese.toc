@@ -1,0 +1,65 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Agradecimentos}{11}{chapter*.6}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Prefácio}{11}{chapter*.7}%
+\contentsline {chapter}{Sum\'ario}{17}{section*.10}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\changetocdepth {1}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Introdução Geral}{18}{chapter*.11}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Hotspot getting hotter}}{23}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{24}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Materials and Methods}{26}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}\textit {Study area}}{26}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}\textit {Species distribution and threat assessment data}}{27}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}\textit {Spatial Patterns: Land-use/Land-cover (LULC) and richness}}{28}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}\textit {Gap analysis}}{28}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}\textit {Statistical analyses}}{29}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Results}{30}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}\textit {The rise in endemism levels of Cerrado tetrapods}}{30}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}\textit {Evolution of taxonomic knowledge}}{30}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}\textit {Hotspots within hotspots: mapping richness, discovery, habitat loss and protection gap}}{31}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}\textit {Range size, habitat loss, protection and threat levels of Cerrado endemic tetrapods}}{34}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}\textit {Vulnerability, Irreplaceability and Discovery}}{36}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Discussion}{37}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Supporting information}{43}{section.1.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Cerrado endemic tetrapod bioregions}}{58}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{59}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Materials and Methods}{61}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\textit {Study area}}{61}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textit {Data sources}}{61}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}\textit {Analyses}}{62}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}\textit {Mapping}}{63}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Results}{65}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}\textit {Species distribution dataset}}{65}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}\textit {First prediction of the vicariance model: test for clustered ranges}}{65}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}\textit {Identification of Biotic Elements}}{65}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}\textit {Restricted Biotic Elements}}{66}{subsubsection.2.3.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.3.2}\textit {Partial Biotic Elements}}{67}{subsubsection.2.3.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3.3}\textit {Widespread Biotic Element}}{69}{subsubsection.2.3.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}\textit {Second prediction of the vicariance model: are closely related species found in different BEs?}}{69}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}\textit {Elevation and BEs}}{71}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}Discussion}{72}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Supporting information}{77}{section.2.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Priority Areas of Cerrado hotspot}}{78}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{79}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Materials and Methods}{80}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}\textit {Study area}}{80}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}\textit {Species and occurrence records}}{80}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}\textit {Estimation of Priority Areas}}{82}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Results}{83}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Discussion}{88}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Supporting information}{91}{section.3.5}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Conclusões Gerais}{102}{chapter*.55}%
+\contentsline {chapter}{Lista de ilustra\c {c}\~{o}es}{108}{section*.56}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Lista de tabelas}{108}{section*.57}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Refer\^encias}{109}{chapter*.58}%
