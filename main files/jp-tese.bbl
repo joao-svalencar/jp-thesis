@@ -781,8 +781,6 @@ deMarcoJr2023}%
 \newblock
 \APACjournalVolNumPages{Science}{}{}{298-301}.
 \newblock
-\begin{APACrefURL} \url{https://www.science.org} \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{https://doi.org/10.1126/science.abq7768}
   \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -1352,7 +1350,7 @@ Frost, D\BPBI R.%
 \begin{APACrefURL} \url{https://amphibiansoftheworld.amnh.org/index.php}
   \end{APACrefURL}
 \newblock
-\begin{APACrefDOI} \doi{doi.org/10.5531/db.vz.0001} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.5531/db.vz.0001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1512,9 +1510,6 @@ Gorelick, N.%
   everyone}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Remote Sensing of Environment}{202}{}{18-27}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1016/j.rse.2017.06.031}
-  \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.rse.2017.06.031} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -2098,8 +2093,7 @@ KBAs2022}%
 \newblock
 \APACrefnote{Version 1.2}
 \newblock
-\begin{APACrefDOI} \doi{https://doi.org/10.2305/IUCN.CH.2022.KBA.1.2.en}
-  \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.2305/IUCN.CH.2022.KBA.1.2.en} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2278,10 +2272,10 @@ Lima-Rezende, C\BPBI A.%
 \newblock
 {\BBOQ}\APACrefatitle {Late [P]leistocene climatic changes promoted demographic
   expansion and population reconnection of a [N]eotropical savanna-adapted
-  bird, \textit{Neothraupis fasciata} [(Aves: Thraupidae)]} {Late [p]leistocene
+  bird, \textit{Neothraupis fasciata} (Aves: Thraupidae)} {Late [p]leistocene
   climatic changes promoted demographic expansion and population reconnection
-  of a [n]eotropical savanna-adapted bird, \textit{Neothraupis fasciata}
-  [(aves: Thraupidae)]}.{\BBCQ}
+  of a [n]eotropical savanna-adapted bird, \textit{Neothraupis fasciata} (aves:
+  Thraupidae)}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{PLoS ONE}{14}{}{1-19}.
 \newblock
@@ -2858,8 +2852,8 @@ Myers, N.%
 \newblock
 \APACrefYearMonthDay{1988}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Threatened biotas: "Hot spots" in tropical forests}
-  {Threatened biotas: "hot spots" in tropical forests}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Threatened biotas: “Hot spots” in tropical forests}
+  {Threatened biotas: “hot spots” in tropical forests}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Environmentalist}{8}{}{187-208}.
 \newblock
@@ -4026,6 +4020,8 @@ TeixeiraJr2016}%
 \bibitem [\protect \citeauthoryear {%
 Uetz%
 , Freed%
+, Aguilar%
+, Reyes%
 \BCBL {}\ \BBA {} Hosekm%
 }{%
 Uetz%
@@ -4038,6 +4034,8 @@ Uetz2020}%
 \begin{APACrefauthors}%
 Uetz, P.%
 , Freed, P.%
+, Aguilar, P.%
+, Reyes, R.%
 \BCBL {}\ \BBA {} Hosekm, J.%
 \end{APACrefauthors}%
 \unskip\
@@ -4045,6 +4043,8 @@ Uetz, P.%
 \APACrefYearMonthDay{2020}{}{}.
 \newblock
 \APACrefbtitle {The Reptile Database.} {The reptile database.}
+\newblock
+\begin{APACrefURL} \url{http://www.reptile-database.org} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

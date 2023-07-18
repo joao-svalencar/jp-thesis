@@ -17,43 +17,43 @@ Warning--I didn't find a database entry for "Azevedo"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 155 entries,
             6951 wiz_defined-function locations,
-            2349 strings with 50977 characters,
-and the built_in function-call counts, 355990 in all, are:
-= -- 43816
-> -- 3022
-< -- 18207
-+ -- 20871
+            2348 strings with 50948 characters,
+and the built_in function-call counts, 356273 in all, are:
+= -- 43840
+> -- 3030
+< -- 18225
++ -- 20897
 - -- 345
-* -- 23506
-:= -- 65399
+* -- 23528
+:= -- 65451
 add.period$ -- 620
 call.type$ -- 155
 change.case$ -- 2653
 chr.to.int$ -- 0
 cite$ -- 310
-duplicate$ -- 11122
-empty$ -- 12620
-format.name$ -- 5560
-if$ -- 65495
+duplicate$ -- 11138
+empty$ -- 12623
+format.name$ -- 5578
+if$ -- 65534
 int.to.chr$ -- 0
 int.to.str$ -- 469
 missing$ -- 0
-newline$ -- 4252
+newline$ -- 4254
 num.names$ -- 1258
-pop$ -- 5996
+pop$ -- 6000
 preamble$ -- 1
 purify$ -- 622
 quote$ -- 0
-skip$ -- 20420
+skip$ -- 20430
 stack$ -- 0
-substring$ -- 23072
-swap$ -- 5525
+substring$ -- 23096
+swap$ -- 5532
 text.length$ -- 391
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 12976
 warning$ -- 0
-while$ -- 1907
+while$ -- 1911
 width$ -- 0
-write$ -- 5399
+write$ -- 5405
 (There was 1 warning)
