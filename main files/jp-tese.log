@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.17)  18 JUL 2023 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.17)  19 JUL 2023 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,42 +1130,72 @@ File: ./figs//Fig c1-5.png Graphic file (type png)
 Package pdftex.def Info: ./figs//Fig c1-5.png  used on input line 543.
 (pdftex.def)             Requested size: 455.24408pt x 455.24905pt.
  [36] [37 <./figs//Fig c1-5.png>] [38]
-[39] [40] [41] [42] [43
+[39] [40] [41] [42]
+Overfull \hbox (17.75978pt too wide) in alignment at lines 583--588
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.75978pt too wide) in alignment at lines 588--594
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.75978pt too wide) in alignment at lines 594--596
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.75978pt too wide) in alignment at lines 596--598
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.75978pt too wide) in alignment at lines 598--800
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (17.75978pt too wide) in alignment at lines 800--940
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[43
 
 ] [44] [45] [46] [47] [48] [49] [50] [51] [52]
-<./figs//Fig c1-s1.png, id=1060, 1991.44pt x 924.45375pt>
+<./figs//Fig c1-s1.png, id=1068, 1991.44pt x 924.45375pt>
 File: ./figs//Fig c1-s1.png Graphic file (type png)
 <use ./figs//Fig c1-s1.png>
-Package pdftex.def Info: ./figs//Fig c1-s1.png  used on input line 952.
+Package pdftex.def Info: ./figs//Fig c1-s1.png  used on input line 953.
 (pdftex.def)             Requested size: 455.24408pt x 211.32213pt.
-<./figs//Fig c1-s2.png, id=1061, 1991.44pt x 1991.44pt>
+<./figs//Fig c1-s2.png, id=1069, 1991.44pt x 1991.44pt>
 File: ./figs//Fig c1-s2.png Graphic file (type png)
 <use ./figs//Fig c1-s2.png>
-Package pdftex.def Info: ./figs//Fig c1-s2.png  used on input line 959.
+Package pdftex.def Info: ./figs//Fig c1-s2.png  used on input line 960.
 (pdftex.def)             Requested size: 455.24408pt x 455.22598pt.
  [53
 
- <./figs//Fig c1-s1.png>] [54 <./figs//Fig c1-s2.png>]
-<./figs//Fig c1-s3.png, id=1076, 1991.44pt x 1991.44pt>
+ <./figs//Fig c1-s1.png>]
+[54 <./figs//Fig c1-s2.png>]
+<./figs//Fig c1-s3.png, id=1084, 1991.44pt x 1991.44pt>
 File: ./figs//Fig c1-s3.png Graphic file (type png)
 <use ./figs//Fig c1-s3.png>
-Package pdftex.def Info: ./figs//Fig c1-s3.png  used on input line 968.
+Package pdftex.def Info: ./figs//Fig c1-s3.png  used on input line 969.
 (pdftex.def)             Requested size: 455.24408pt x 455.22598pt.
  [55 <./figs//Fig c1-s3.png>]
-<./figs//Fig c1-s4.png, id=1083, 1991.44pt x 1991.44pt>
+<./figs//Fig c1-s4.png, id=1091, 1991.44pt x 1991.44pt>
 File: ./figs//Fig c1-s4.png Graphic file (type png)
 <use ./figs//Fig c1-s4.png>
-Package pdftex.def Info: ./figs//Fig c1-s4.png  used on input line 977.
+Package pdftex.def Info: ./figs//Fig c1-s4.png  used on input line 978.
 (pdftex.def)             Requested size: 455.24408pt x 455.22598pt.
-
-[56 <./figs//Fig c1-s4.png>]
-<./figs//Fig c1-s5.png, id=1090, 1991.44pt x 1991.44pt>
+ [56 <./figs//Fig c1-s4.png>]
+<./figs//Fig c1-s5.png, id=1098, 1991.44pt x 1991.44pt>
 File: ./figs//Fig c1-s5.png Graphic file (type png)
 <use ./figs//Fig c1-s5.png>
-Package pdftex.def Info: ./figs//Fig c1-s5.png  used on input line 986.
+Package pdftex.def Info: ./figs//Fig c1-s5.png  used on input line 987.
 (pdftex.def)             Requested size: 455.24408pt x 455.22598pt.
  [57 <./figs//Fig c1-s5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 998--1010
+Underfull \hbox (badness 10000) in paragraph at lines 999--1011
 
  []
 
@@ -1173,39 +1203,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 998--1010
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1016.
+Package hyperref Warning: Ignoring empty anchor on input line 1017.
 
 [59
 
 ] [60] [61] [62] [63] [64]
-Overfull \hbox (28.4975pt too wide) in paragraph at lines 1085--1120
+Overfull \hbox (28.4975pt too wide) in paragraph at lines 1086--1121
  [][] 
  []
 
 [65] [66]
-<./figs//Fig c2-1.png, id=1463, 312.84987pt x 386.80057pt>
+<./figs//Fig c2-1.png, id=1471, 312.84987pt x 386.80057pt>
 File: ./figs//Fig c2-1.png Graphic file (type png)
 <use ./figs//Fig c2-1.png>
-Package pdftex.def Info: ./figs//Fig c2-1.png  used on input line 1156.
+Package pdftex.def Info: ./figs//Fig c2-1.png  used on input line 1157.
 (pdftex.def)             Requested size: 426.79134pt x 527.68257pt.
  [67]
 Overfull \vbox (32.68256pt too high) has occurred while \output is active []
 
 
 [68 <./figs//Fig c2-1.png>]
-<./figs//Fig c2-2.png, id=1487, 312.84987pt x 386.80057pt>
+<./figs//Fig c2-2.png, id=1496, 312.84987pt x 386.80057pt>
 File: ./figs//Fig c2-2.png Graphic file (type png)
 <use ./figs//Fig c2-2.png>
-Package pdftex.def Info: ./figs//Fig c2-2.png  used on input line 1171.
+Package pdftex.def Info: ./figs//Fig c2-2.png  used on input line 1172.
 (pdftex.def)             Requested size: 426.79134pt x 527.68257pt.
  [69] [70 <./figs//Fig c2-2.png>]
-<./figs//Fig c2-3.png, id=1507, 1991.44pt x 995.72pt>
+<./figs//Fig c2-3.png, id=1515, 1991.44pt x 995.72pt>
 File: ./figs//Fig c2-3.png Graphic file (type png)
 <use ./figs//Fig c2-3.png>
-Package pdftex.def Info: ./figs//Fig c2-3.png  used on input line 1182.
+Package pdftex.def Info: ./figs//Fig c2-3.png  used on input line 1183.
 (pdftex.def)             Requested size: 455.24408pt x 227.61298pt.
  [71 <./figs//Fig c2-3.png>] [72] [73]
-Overfull \hbox (12.46082pt too wide) in paragraph at lines 1221--1222
+Overfull \hbox (12.46082pt too wide) in paragraph at lines 1222--1223
 []\T1/cmr/m/n/12 Although most BEs showed a pre-do-mi-nant ele-va-tion range ty
 pe (pla-te-aus/depressions),
  []
@@ -1214,38 +1244,38 @@ pe (pla-te-aus/depressions),
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1299.
+Package hyperref Warning: Ignoring empty anchor on input line 1300.
 
 [79
 
 ] [80] [81] [82]
-<./figs//Fig c3-1.jpg, id=1883, 1991.44pt x 947.54pt>
+<./figs//Fig c3-1.jpg, id=1891, 1991.44pt x 947.54pt>
 File: ./figs//Fig c3-1.jpg Graphic file (type jpg)
 <use ./figs//Fig c3-1.jpg>
-Package pdftex.def Info: ./figs//Fig c3-1.jpg  used on input line 1364.
+Package pdftex.def Info: ./figs//Fig c3-1.jpg  used on input line 1365.
 (pdftex.def)             Requested size: 455.24408pt x 216.59944pt.
  [83]
-<./figs//Fig c3-2.jpg, id=1898, 1303.87125pt x 918.43124pt>
+<./figs//Fig c3-2.jpg, id=1906, 1303.87125pt x 918.43124pt>
 File: ./figs//Fig c3-2.jpg Graphic file (type jpg)
 <use ./figs//Fig c3-2.jpg>
-Package pdftex.def Info: ./figs//Fig c3-2.jpg  used on input line 1375.
+Package pdftex.def Info: ./figs//Fig c3-2.jpg  used on input line 1376.
 (pdftex.def)             Requested size: 455.24408pt x 320.67096pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1376.
+(Font)              <10.95> on input line 1377.
  [84 <./figs//Fig c3-1.jpg>] [85 <./figs//Fig c3-2.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figs//Fig c3-3.pdf, id=1917, 313.17pt x 213.79875pt>
+<./figs//Fig c3-3.pdf, id=1925, 313.17pt x 213.79875pt>
 File: ./figs//Fig c3-3.pdf Graphic file (type pdf)
 <use ./figs//Fig c3-3.pdf>
-Package pdftex.def Info: ./figs//Fig c3-3.pdf  used on input line 1412.
+Package pdftex.def Info: ./figs//Fig c3-3.pdf  used on input line 1413.
 (pdftex.def)             Requested size: 455.24408pt x 310.80276pt.
 [86] [87 <./figs//Fig c3-3.pdf>] [88] [89] [90] [91]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 1500.
+(Font)              <9> on input line 1501.
 
-Overfull \hbox (38.16298pt too wide) in paragraph at lines 1500--1514
+Overfull \hbox (38.16298pt too wide) in paragraph at lines 1501--1515
  [][] 
  []
 
@@ -1254,7 +1284,7 @@ Overfull \hbox (38.16298pt too wide) in paragraph at lines 1500--1514
 ] [103]
 
 Package natbib Warning: Citation `Azevedo' on page 104 undefined on input line 
-1898.
+1899.
 
 [104] [105] [106] [107] (./jp-tese.lof) (./jp-tese.lot) [108] (./jp-tese.bbl
 [109
@@ -1272,10 +1302,10 @@ e-ria.  \T1/cmr/m/n/12 Re-tri-e-
  []
 
 [114] [115] [116] [117] [118] [119]) [120]
-<./figs//Fig JP.jpeg, id=2282, 1204.5pt x 1606.0pt>
+<./figs//Fig JP.jpeg, id=2290, 1204.5pt x 1606.0pt>
 File: ./figs//Fig JP.jpeg Graphic file (type jpg)
 <use ./figs//Fig JP.jpeg>
-Package pdftex.def Info: ./figs//Fig JP.jpeg  used on input line 1931.
+Package pdftex.def Info: ./figs//Fig JP.jpeg  used on input line 1932.
 (pdftex.def)             Requested size: 455.24408pt x 607.00261pt.
  
 AED: lastpage setting LastPage
@@ -1296,7 +1326,7 @@ Package natbib Warning: There were undefined citations.
 Here is how much of TeX's memory you used:
  19701 strings out of 478268
  317748 string characters out of 5846347
- 970002 words of memory out of 5000000
+ 990007 words of memory out of 5000000
  37229 multiletter control sequences out of 15000+600000
  497263 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1335,10 +1365,10 @@ ts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2022/texmf-dist/fonts
 ype1/public/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 /public/cm-super/sftt1200.pfb>
-Output written on jp-tese.pdf (122 pages, 9176537 bytes).
+Output written on jp-tese.pdf (122 pages, 9177470 bytes).
 PDF statistics:
- 2621 PDF objects out of 2984 (max. 8388607)
- 2362 compressed objects within 24 object streams
+ 2629 PDF objects out of 2984 (max. 8388607)
+ 2366 compressed objects within 24 object streams
  391 named destinations out of 1000 (max. 500000)
  374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
