@@ -1014,14 +1014,10 @@ Durigan, G.%
 \APACrefYearMonthDay{2003}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {The Vegetation of Priority Areas for Cerrado
-  Conservation in São Paulo State, Brazil} {The vegetation of priority areas
-  for cerrado conservation in são paulo state, brazil}.{\BBCQ}
+  Conservation in {S}ão {P}aulo State, Brazil} {The vegetation of priority
+  areas for cerrado conservation in {S}ão {P}aulo state, brazil}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Edinburgh Journal of Botany}{60}{}{217-241}.
-\newblock
-\APACrefnote{Western São Paulo State Cerrado was poorly represented in
-  protected areas; Policies and strategies for conservation should be directed
-  towards that region}
 \newblock
 \begin{APACrefDOI} \doi{10.1017/s0960428603000155} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}

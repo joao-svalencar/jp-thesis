@@ -11,43 +11,42 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12488 items from 5000.
+Reallocated field_info (elt_size=4) to 12440 items from 5000.
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "Azevedo"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 155 entries,
             6951 wiz_defined-function locations,
-            2348 strings with 50948 characters,
-and the built_in function-call counts, 356273 in all, are:
+            2345 strings with 50783 characters,
+and the built_in function-call counts, 356264 in all, are:
 = -- 43840
 > -- 3030
 < -- 18225
 + -- 20897
 - -- 345
-* -- 23528
+* -- 23526
 := -- 65451
 add.period$ -- 620
 call.type$ -- 155
 change.case$ -- 2653
 chr.to.int$ -- 0
 cite$ -- 310
-duplicate$ -- 11138
-empty$ -- 12623
+duplicate$ -- 11137
+empty$ -- 12622
 format.name$ -- 5578
-if$ -- 65534
+if$ -- 65533
 int.to.chr$ -- 0
 int.to.str$ -- 469
 missing$ -- 0
-newline$ -- 4254
+newline$ -- 4252
 num.names$ -- 1258
 pop$ -- 6000
 preamble$ -- 1
 purify$ -- 622
 quote$ -- 0
-skip$ -- 20430
+skip$ -- 20431
 stack$ -- 0
 substring$ -- 23096
-swap$ -- 5532
+swap$ -- 5531
 text.length$ -- 391
 text.prefix$ -- 0
 top$ -- 1
@@ -55,5 +54,4 @@ type$ -- 12976
 warning$ -- 0
 while$ -- 1911
 width$ -- 0
-write$ -- 5405
-(There was 1 warning)
+write$ -- 5403
